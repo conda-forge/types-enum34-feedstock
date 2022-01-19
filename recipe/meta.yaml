@@ -1,5 +1,5 @@
 {% set name = "types-enum34" %}
-{% set version = "1.1.6" %}
+{% set version = "1.1.7" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-enum34-{{ version }}.tar.gz
-  sha256: 9723f0009970ddd3c76080fdb24805db2a7816b7e1adc85928416ced279ef80d
+  sha256: fb220b3cf234f500730a817d46c432b374a0d8346a8ae4adecbf85bf8a764f6b
 
 build:
   number: 0
